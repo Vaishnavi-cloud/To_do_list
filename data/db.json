@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "yoga"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "office"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "fufjgfgjfjgfjh"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "amazon shopping"
+    }
+  ]
+}
